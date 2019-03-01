@@ -5,6 +5,7 @@
   "author": "Scott Moss <willscottmoss@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^5.14.1",
     "jest": "^23.6.0"
   },
   "scripts": {

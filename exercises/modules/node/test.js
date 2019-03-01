@@ -3,7 +3,7 @@ const api = require('./api')
 const app = require('./app')
 
 describe('data', () => {
-  test('users',  () => {
+  test('users', () => {
     expect(data.users).toHaveLength(1)
   })
   test('posts', () => {
